@@ -1,0 +1,22 @@
+{
+  "name": "koaaa!",
+  "version": "0.0.0",
+  "description": "koa playthings",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/wcjohnson11/koa-workshop.git"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/wcjohnson11/koa-workshop/issues"
+  },
+  "homepage": "https://github.com/wcjohnson11/koa-workshop",
+  "dependencies": {
+    "koa": "~0.13.0"
+  }
+}
